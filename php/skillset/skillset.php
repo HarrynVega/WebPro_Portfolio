@@ -1,3 +1,3 @@
 <div>
-    <h2 class="titilo2">Habilidades Tecnicas Personales</h2>
+    <h1 class="titles">Skillset</h1>
 </div>

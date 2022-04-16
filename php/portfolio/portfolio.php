@@ -1,3 +1,8 @@
 <div>
-    <h1 id="titulo-principal" class="titulo1">Nuestros Datos Personales</h1>
+    <div>
+        <h1 class="titles">Who am I?</h1>
+    </div>
+    <div class="container">
+        <img src="libs/images/Foto.png" alt="Avatar" width="240" height="300">
+    </div>
 </div>
