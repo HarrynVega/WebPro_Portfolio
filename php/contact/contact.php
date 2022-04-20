@@ -1,5 +1,5 @@
 <div>
-    <h1 class="titles">Contact me</h1>
+    <h1 class="Titulos" style="text-align: center;">Contact me</h1>
 </div>
 <div class="form-center">
     <form>
